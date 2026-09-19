@@ -1,0 +1,72 @@
+Juli 12, 2026 2:05:23 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 12, 2026 2:05:23 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 12, 2026 2:05:24 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 12, 2026 2:05:33 AM cre.CRELogger logInfo
+INFORMATION: Load time is 8.493 seconds
+Juli 12, 2026 2:05:33 AM cre.CRELogger logInfo
+INFORMATION: Load Memory usage 536.0 MBytes
+Juli 12, 2026 2:06:05 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 287921
+Juli 12, 2026 2:06:05 AM cre.CRELogger logInfo
+INFORMATION: Update time is 22.759 seconds
+Juli 12, 2026 2:06:05 AM cre.CRELogger logInfo
+INFORMATION: Update Memory usage 0.0 MBytes
+Juli 12, 2026 2:08:00 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:08:00 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 461007208
+Juli 12, 2026 2:10:08 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:10:08 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 445275312
+Juli 12, 2026 2:11:54 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:11:54 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 130380992
+Juli 12, 2026 2:14:01 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:14:01 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 252739480
+Juli 12, 2026 2:15:36 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:15:36 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 622645280
+Juli 12, 2026 2:17:23 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:17:23 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 537759144
+Juli 12, 2026 2:19:21 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:19:21 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 367003792
+Juli 12, 2026 2:21:23 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:21:23 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 212239472
+Juli 12, 2026 2:23:36 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:23:36 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 502081760
+Juli 12, 2026 2:25:41 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:25:41 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 482946960
+Juli 12, 2026 2:27:02 AM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 998244352
+Juli 12, 2026 2:27:02 AM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 454092664
+Juli 12, 2026 2:27:46 AM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > generateAutoMatching > Time is 1300,0 seconds
+Juli 12, 2026 2:30:44 AM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 12, 2026 2:34:26 AM cre.CRELogger logInfo
+INFORMATION: updateClustering done (postgres loop), time = 221,9
+Juli 12, 2026 2:34:31 AM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > updateClustering > Time is 405,7 seconds
+Juli 12, 2026 2:37:19 AM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 12, 2026 2:40:43 AM cre.CRELogger logInfo
+INFORMATION: updateClustering done (postgres loop), time = 204,5

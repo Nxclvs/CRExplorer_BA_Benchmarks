@@ -1,0 +1,78 @@
+Juni 30, 2026 3:55:51 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 30, 2026 3:55:51 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 30, 2026 3:55:52 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 30, 2026 3:55:53 PM cre.CRELogger logInfo
+INFORMATION: Load time is 1.655 seconds
+Juni 30, 2026 3:55:53 PM cre.CRELogger logInfo
+INFORMATION: Load Memory usage 140.0 MBytes
+Juni 30, 2026 3:56:00 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 128768
+Juni 30, 2026 3:56:00 PM cre.CRELogger logInfo
+INFORMATION: Update time is 5.043 seconds
+Juni 30, 2026 3:56:00 PM cre.CRELogger logInfo
+INFORMATION: Update Memory usage 0.0 MBytes
+Juni 30, 2026 4:05:09 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > generateAutoMatching > Time is 549,3 seconds
+Juni 30, 2026 4:05:15 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juni 30, 2026 4:05:32 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 98772, time = 16,8
+Juni 30, 2026 4:05:42 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 60674, time = 9,9
+Juni 30, 2026 4:05:52 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 66082, time = 10,3
+Juni 30, 2026 4:06:02 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 60487, time = 9,3
+Juni 30, 2026 4:06:10 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 49167, time = 8,5
+Juni 30, 2026 4:06:18 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 31578, time = 8,5
+Juni 30, 2026 4:06:27 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16783, time = 8,4
+Juni 30, 2026 4:06:35 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 8162, time = 8,3
+Juni 30, 2026 4:06:43 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4254, time = 8,1
+Juni 30, 2026 4:06:51 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 2768, time = 8,0
+Juni 30, 2026 4:07:00 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1707, time = 8,3
+Juni 30, 2026 4:07:08 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 803, time = 8,2
+Juni 30, 2026 4:07:17 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 345, time = 9,0
+Juni 30, 2026 4:07:26 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 201, time = 9,1
+Juni 30, 2026 4:07:35 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 93, time = 8,9
+Juni 30, 2026 4:07:44 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 37, time = 8,7
+Juni 30, 2026 4:07:52 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16, time = 8,7
+Juni 30, 2026 4:08:01 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 13, time = 8,9
+Juni 30, 2026 4:08:10 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4, time = 8,9
+Juni 30, 2026 4:08:20 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > updateClustering > Time is 190,6 seconds
+Juni 30, 2026 4:08:20 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juni 30, 2026 4:08:21 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 20055, time = 0,4
+Juni 30, 2026 4:08:21 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1435, time = 0,3
+Juni 30, 2026 4:08:21 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 369, time = 0,2
+Juni 30, 2026 4:08:21 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 129, time = 0,2
+Juni 30, 2026 4:08:22 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 54, time = 0,2
+Juni 30, 2026 4:08:22 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16, time = 0,2
+Juni 30, 2026 4:08:22 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 14, time = 0,2
+Juni 30, 2026 4:08:22 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 2, time = 0,3

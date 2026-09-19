@@ -1,0 +1,5255 @@
+{
+  "recording": {
+    "events": [{
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:24.698741900+02:00", 
+        "gcId": 1, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 24484216
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:24.701801900+02:00", 
+        "gcId": 1, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 10488440
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.418426100+02:00", 
+        "gcId": 2, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 69208696
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.423448700+02:00", 
+        "gcId": 2, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 17260944
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.423518700+02:00", 
+        "used": 17260944, 
+        "committed": 268435456, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.744725300+02:00", 
+        "gcId": 3, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 29843856
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.749890100+02:00", 
+        "gcId": 3, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 20935568
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.749915100+02:00", 
+        "gcId": 4, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28185722880, 
+          "committedSize": 268435456, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 20935568
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.759532400+02:00", 
+        "gcId": 4, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 27988590592, 
+          "committedSize": 71303168, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 20451840
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.869387+02:00", 
+        "jvmUser": 0.18604912, 
+        "jvmSystem": 0.0, 
+        "machineTotal": 0.89983845
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.885410500+02:00", 
+        "gcId": 5, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 27988590592, 
+          "committedSize": 71303168, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 70783488
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.891272200+02:00", 
+        "gcId": 5, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28005367808, 
+          "committedSize": 88080384, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19725064
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.937340500+02:00", 
+        "gcId": 6, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28005367808, 
+          "committedSize": 88080384, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 57473800
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:25.945464+02:00", 
+        "gcId": 6, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28005367808, 
+          "committedSize": 88080384, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19559328
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.000425700+02:00", 
+        "gcId": 7, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28005367808, 
+          "committedSize": 88080384, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 65696672
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.003710+02:00", 
+        "gcId": 7, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19488000
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.088811900+02:00", 
+        "gcId": 8, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 103374080
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.091574400+02:00", 
+        "gcId": 8, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19371288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.154384100+02:00", 
+        "gcId": 9, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 103257368
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.156834500+02:00", 
+        "gcId": 9, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19235968
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.212768600+02:00", 
+        "gcId": 10, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 103122048
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.215115+02:00", 
+        "gcId": 10, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 19182336
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.310513300+02:00", 
+        "gcId": 11, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28064088064, 
+          "committedSize": 146800640, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 103068416
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.318844300+02:00", 
+        "gcId": 11, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 25154080
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.414818300+02:00", 
+        "gcId": 12, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 134205984
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.430751+02:00", 
+        "gcId": 12, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 40109952
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.872373200+02:00", 
+        "used": 140773248, 
+        "committed": 205520896, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:26.880653100+02:00", 
+        "jvmUser": 0.1994169, 
+        "jvmSystem": 0.010292485, 
+        "machineTotal": 0.24092981
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.208591300+02:00", 
+        "gcId": 13, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 153356160
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.230007+02:00", 
+        "gcId": 13, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 63479624
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.565280800+02:00", 
+        "gcId": 14, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 168337224
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.573014900+02:00", 
+        "gcId": 14, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 63352088
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.730019400+02:00", 
+        "gcId": 15, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28122808320, 
+          "committedSize": 205520896, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 172403992
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.742135600+02:00", 
+        "gcId": 15, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 74481216
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.884526400+02:00", 
+        "used": 78675520, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:27.893508+02:00", 
+        "jvmUser": 0.07075105, 
+        "jvmSystem": 0.0025727653, 
+        "machineTotal": 0.08885539
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:28.898319600+02:00", 
+        "used": 233864768, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:28.912795100+02:00", 
+        "jvmUser": 0.10607591, 
+        "jvmSystem": 0.020448368, 
+        "machineTotal": 0.14116828
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:28.981814600+02:00", 
+        "gcId": 16, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 280002112
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:28.995871900+02:00", 
+        "gcId": 16, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91107296
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:29.913480600+02:00", 
+        "used": 120467424, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:29.922516900+02:00", 
+        "jvmUser": 0.097969964, 
+        "jvmSystem": 0.041250512, 
+        "machineTotal": 0.14404997
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:30.938110500+02:00", 
+        "used": 149827552, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:30.947120500+02:00", 
+        "jvmUser": 0.067346394, 
+        "jvmSystem": 0.02668442, 
+        "machineTotal": 0.11219661
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.289127700+02:00", 
+        "gcId": 17, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 284045280
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.294417300+02:00", 
+        "gcId": 17, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 87855728
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.893060100+02:00", 
+        "gcId": 18, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297570928
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.894682500+02:00", 
+        "gcId": 18, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 87606400
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.960132100+02:00", 
+        "used": 116966528, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:31.967722300+02:00", 
+        "jvmUser": 0.10074755, 
+        "jvmSystem": 0.0051011415, 
+        "machineTotal": 0.10985051
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:32.457681100+02:00", 
+        "gcId": 19, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297321600
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:32.459283800+02:00", 
+        "gcId": 19, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 87766488
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:32.979313+02:00", 
+        "used": 242955736, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:32.987273800+02:00", 
+        "jvmUser": 0.095817834, 
+        "jvmSystem": 0.0051102843, 
+        "machineTotal": 0.12741913
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:33.113587400+02:00", 
+        "gcId": 20, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297481688
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:33.116639100+02:00", 
+        "gcId": 20, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91366624
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:33.670222+02:00", 
+        "gcId": 21, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296887520
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:33.672333300+02:00", 
+        "gcId": 21, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91389536
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:33.998083700+02:00", 
+        "used": 217218656, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:34.006400900+02:00", 
+        "jvmUser": 0.0804416, 
+        "jvmSystem": 0.0, 
+        "machineTotal": 0.09726638
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:34.224915900+02:00", 
+        "gcId": 22, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296910432
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:34.227080300+02:00", 
+        "gcId": 22, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91492296
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:34.756609500+02:00", 
+        "gcId": 23, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297013192
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:34.758766400+02:00", 
+        "gcId": 23, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91509264
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.018128600+02:00", 
+        "used": 187978256, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.026948600+02:00", 
+        "jvmUser": 0.08169503, 
+        "jvmSystem": 0.0012764848, 
+        "machineTotal": 0.08348418
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.281424900+02:00", 
+        "gcId": 24, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297030160
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.283838400+02:00", 
+        "gcId": 24, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91768640
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.841818+02:00", 
+        "gcId": 25, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297289536
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:35.843977+02:00", 
+        "gcId": 25, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91532864
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.040244700+02:00", 
+        "used": 171224640, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.048353300+02:00", 
+        "jvmUser": 0.082805224, 
+        "jvmSystem": 0.002547853, 
+        "machineTotal": 0.117168464
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.365553400+02:00", 
+        "gcId": 26, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297053760
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.367801800+02:00", 
+        "gcId": 26, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91775328
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.916074900+02:00", 
+        "gcId": 27, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297296224
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:36.918216100+02:00", 
+        "gcId": 27, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91360240
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:37.059281400+02:00", 
+        "used": 150080496, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:37.067741500+02:00", 
+        "jvmUser": 0.079220355, 
+        "jvmSystem": 0.0012777476, 
+        "machineTotal": 0.09663281
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:37.444575600+02:00", 
+        "gcId": 28, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296881136
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:37.446696500+02:00", 
+        "gcId": 28, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91607376
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.021949200+02:00", 
+        "gcId": 29, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297128272
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.024294+02:00", 
+        "gcId": 29, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90296832
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.073230800+02:00", 
+        "used": 98685440, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.081334600+02:00", 
+        "jvmUser": 0.082186796, 
+        "jvmSystem": 0.0012841687, 
+        "machineTotal": 0.09209312
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.606230500+02:00", 
+        "gcId": 30, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295817728
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:38.608070400+02:00", 
+        "gcId": 30, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89508544
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.092174100+02:00", 
+        "used": 261475008, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.100581600+02:00", 
+        "jvmUser": 0.079228915, 
+        "jvmSystem": 0.0038336571, 
+        "machineTotal": 0.10803473
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.169970100+02:00", 
+        "gcId": 31, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295029440
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.171887400+02:00", 
+        "gcId": 31, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89864880
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.723946800+02:00", 
+        "gcId": 32, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295385776
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:39.725895400+02:00", 
+        "gcId": 32, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89903640
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.111658400+02:00", 
+        "used": 224121368, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.119582600+02:00", 
+        "jvmUser": 0.0792639, 
+        "jvmSystem": 0.0025569, 
+        "machineTotal": 0.09357935
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.308806500+02:00", 
+        "gcId": 33, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295424536
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.310293500+02:00", 
+        "gcId": 33, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89392624
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.887200500+02:00", 
+        "gcId": 34, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294913520
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:40.888801+02:00", 
+        "gcId": 34, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88182872
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:41.131994+02:00", 
+        "used": 193040472, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:41.140549100+02:00", 
+        "jvmUser": 0.08159196, 
+        "jvmSystem": 0.0012748743, 
+        "machineTotal": 0.084640086
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:41.441551200+02:00", 
+        "gcId": 35, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297898072
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:41.443213100+02:00", 
+        "gcId": 35, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88203968
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.061134500+02:00", 
+        "gcId": 36, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297919168
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.062195300+02:00", 
+        "gcId": 36, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 86154200
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.150855400+02:00", 
+        "used": 123902936, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.159731500+02:00", 
+        "jvmUser": 0.07412332, 
+        "jvmSystem": 0.0025559766, 
+        "machineTotal": 0.096461855
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.716249200+02:00", 
+        "gcId": 37, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295869400
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:42.717837900+02:00", 
+        "gcId": 37, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 87476896
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.166811200+02:00", 
+        "used": 242666144, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.174873900+02:00", 
+        "jvmUser": 0.07048993, 
+        "jvmSystem": 0.0051265405, 
+        "machineTotal": 0.082349695
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.380103700+02:00", 
+        "gcId": 38, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297192096
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.381741500+02:00", 
+        "gcId": 38, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88360896
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.927621500+02:00", 
+        "gcId": 39, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298076096
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:43.929232300+02:00", 
+        "gcId": 39, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88629408
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:44.188894300+02:00", 
+        "used": 193487008, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:44.197915200+02:00", 
+        "jvmUser": 0.076435916, 
+        "jvmSystem": 0.0050957277, 
+        "machineTotal": 0.087864846
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:44.473747+02:00", 
+        "gcId": 40, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294150304
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:44.475566700+02:00", 
+        "gcId": 40, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88854176
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.033833600+02:00", 
+        "gcId": 41, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294375072
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.035355400+02:00", 
+        "gcId": 41, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 86530072
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.209822100+02:00", 
+        "used": 132667416, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.217449400+02:00", 
+        "jvmUser": 0.07659916, 
+        "jvmSystem": 0.0051066107, 
+        "machineTotal": 0.08846991
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.637605100+02:00", 
+        "gcId": 42, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296245272
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:45.639636700+02:00", 
+        "gcId": 42, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89938296
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.208018900+02:00", 
+        "gcId": 43, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295459192
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.209657600+02:00", 
+        "gcId": 43, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89754288
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.230239200+02:00", 
+        "used": 98142896, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.238674100+02:00", 
+        "jvmUser": 0.07903615, 
+        "jvmSystem": 0.0012747766, 
+        "machineTotal": 0.09363424
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.735673700+02:00", 
+        "gcId": 44, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295275184
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:46.737809600+02:00", 
+        "gcId": 44, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90251640
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.250211600+02:00", 
+        "used": 274801016, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.259042900+02:00", 
+        "jvmUser": 0.077872135, 
+        "jvmSystem": 0.0012765924, 
+        "machineTotal": 0.089789316
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.301611700+02:00", 
+        "gcId": 45, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295772536
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.303296100+02:00", 
+        "gcId": 45, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89980560
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.834062800+02:00", 
+        "gcId": 46, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295501456
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:47.836091800+02:00", 
+        "gcId": 46, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90083328
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:48.267283600+02:00", 
+        "used": 241078272, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:48.276309600+02:00", 
+        "jvmUser": 0.08065507, 
+        "jvmSystem": 0.0025604782, 
+        "machineTotal": 0.08321554
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:48.434335100+02:00", 
+        "gcId": 47, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295604224
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:48.435940100+02:00", 
+        "gcId": 47, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 85410152
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.272646100+02:00", 
+        "gcId": 48, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295125352
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.274546300+02:00", 
+        "gcId": 48, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88914368
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.284968800+02:00", 
+        "used": 93108672, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.294214600+02:00", 
+        "jvmUser": 0.07030035, 
+        "jvmSystem": 0.0038345642, 
+        "machineTotal": 0.085197926
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.803379+02:00", 
+        "gcId": 49, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294435264
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:49.805347700+02:00", 
+        "gcId": 49, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89213640
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.306179100+02:00", 
+        "used": 282151624, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.315155+02:00", 
+        "jvmUser": 0.0791303, 
+        "jvmSystem": 0.0012762952, 
+        "machineTotal": 0.092553474
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.381616900+02:00", 
+        "gcId": 50, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294734536
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.383050500+02:00", 
+        "gcId": 50, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88578304
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.918953800+02:00", 
+        "gcId": 51, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294099200
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:50.920513900+02:00", 
+        "gcId": 51, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88771280
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:51.327814300+02:00", 
+        "used": 235571920, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:51.336028500+02:00", 
+        "jvmUser": 0.07137253, 
+        "jvmSystem": 0.002549019, 
+        "machineTotal": 0.09764802
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:51.496841300+02:00", 
+        "gcId": 52, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294292176
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:51.499050200+02:00", 
+        "gcId": 52, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89184656
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.131487700+02:00", 
+        "gcId": 53, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294705552
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.133122300+02:00", 
+        "gcId": 53, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88816528
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.348700600+02:00", 
+        "used": 168508304, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.357382700+02:00", 
+        "jvmUser": 0.077802345, 
+        "jvmSystem": 0.005101793, 
+        "machineTotal": 0.09315623
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.696547+02:00", 
+        "gcId": 54, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294337424
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:52.698334700+02:00", 
+        "gcId": 54, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 89130776
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.347271900+02:00", 
+        "gcId": 55, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294651672
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.349262900+02:00", 
+        "gcId": 55, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90385296
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.369351500+02:00", 
+        "used": 98773904, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.377688400+02:00", 
+        "jvmUser": 0.08037257, 
+        "jvmSystem": 0.0025515102, 
+        "machineTotal": 0.10059201
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.890266+02:00", 
+        "gcId": 56, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 295906192
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:53.892536400+02:00", 
+        "gcId": 56, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91161168
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:54.390485300+02:00", 
+        "used": 279904848, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:54.398690400+02:00", 
+        "jvmUser": 0.08160646, 
+        "jvmSystem": 0.0, 
+        "machineTotal": 0.09212844
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:54.471628200+02:00", 
+        "gcId": 57, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296682064
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:54.473365900+02:00", 
+        "gcId": 57, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90779120
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.013322200+02:00", 
+        "gcId": 58, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296300016
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.015431300+02:00", 
+        "gcId": 58, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91056576
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.407713200+02:00", 
+        "used": 237857216, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.416117400+02:00", 
+        "jvmUser": 0.07680292, 
+        "jvmSystem": 0.0025600973, 
+        "machineTotal": 0.08732565
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.596152+02:00", 
+        "gcId": 59, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296577472
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:55.597962200+02:00", 
+        "gcId": 59, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90676008
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.143886600+02:00", 
+        "gcId": 60, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296196904
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.145908800+02:00", 
+        "gcId": 60, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90926064
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.422774500+02:00", 
+        "used": 187395056, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.431198+02:00", 
+        "jvmUser": 0.07824822, 
+        "jvmSystem": 0.0012827577, 
+        "machineTotal": 0.087958425
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.701466100+02:00", 
+        "gcId": 61, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296446960
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:56.703893900+02:00", 
+        "gcId": 61, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 90967680
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.308383+02:00", 
+        "gcId": 62, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296488576
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.310373700+02:00", 
+        "gcId": 62, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 91088176
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.438513500+02:00", 
+        "used": 141419824, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.446975600+02:00", 
+        "jvmUser": 0.08204271, 
+        "jvmSystem": 0.003845752, 
+        "machineTotal": 0.10137665
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.918882+02:00", 
+        "gcId": 63, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296609072
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:57.920044+02:00", 
+        "gcId": 63, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 86517944
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:58.453228600+02:00", 
+        "used": 245901496, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:58.463340200+02:00", 
+        "jvmUser": 0.074352056, 
+        "jvmSystem": 0.005127728, 
+        "machineTotal": 0.08560035
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:58.629626800+02:00", 
+        "gcId": 64, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296233144
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:58.631505500+02:00", 
+        "gcId": 64, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88367088
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.237171700+02:00", 
+        "gcId": 65, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.238747100+02:00", 
+        "gcId": 65, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88367088
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.472980+02:00", 
+        "used": 163864560, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.481037600+02:00", 
+        "jvmUser": 0.06652808, 
+        "jvmSystem": 0.01023509, 
+        "machineTotal": 0.077562585
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.849527300+02:00", 
+        "gcId": 66, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:52:59.850939500+02:00", 
+        "gcId": 66, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88196208
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:00.492370100+02:00", 
+        "used": 293717104, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:00.499161600+02:00", 
+        "gcId": 67, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297911408
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:00.500789800+02:00", 
+        "gcId": 67, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88254224
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:00.502405900+02:00", 
+        "jvmUser": 0.07776265, 
+        "jvmSystem": 0.0038243928, 
+        "machineTotal": 0.10381449
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.053853800+02:00", 
+        "gcId": 68, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297969424
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.055648+02:00", 
+        "gcId": 68, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88736432
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.513883600+02:00", 
+        "used": 231342768, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.522144700+02:00", 
+        "jvmUser": 0.07655797, 
+        "jvmSystem": 0.0025519324, 
+        "machineTotal": 0.09062336
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.663717+02:00", 
+        "gcId": 69, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294257328
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:01.665288400+02:00", 
+        "gcId": 69, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88466120
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.273480200+02:00", 
+        "gcId": 70, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 293987016
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.276554700+02:00", 
+        "gcId": 70, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92954640
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.535465300+02:00", 
+        "used": 181035024, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.543823100+02:00", 
+        "jvmUser": 0.08794188, 
+        "jvmSystem": 0.00254904, 
+        "machineTotal": 0.090490915
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.849721500+02:00", 
+        "gcId": 71, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294281232
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:02.851981900+02:00", 
+        "gcId": 71, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.384941600+02:00", 
+        "gcId": 72, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.387198600+02:00", 
+        "gcId": 72, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.556746400+02:00", 
+        "used": 159670256, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.565635600+02:00", 
+        "jvmUser": 0.0828714, 
+        "jvmSystem": 0.0, 
+        "machineTotal": 0.107539155
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.938743400+02:00", 
+        "gcId": 73, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:03.941241400+02:00", 
+        "gcId": 73, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92750208
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:04.503059500+02:00", 
+        "gcId": 74, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294076800
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:04.504992100+02:00", 
+        "gcId": 74, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:04.579094+02:00", 
+        "used": 121921520, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:04.587463800+02:00", 
+        "jvmUser": 0.076417714, 
+        "jvmSystem": 0.0038208857, 
+        "machineTotal": 0.09190223
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.048631300+02:00", 
+        "gcId": 75, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.050735200+02:00", 
+        "gcId": 75, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92273928
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.596639+02:00", 
+        "gcId": 76, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297794824
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.598982900+02:00", 
+        "gcId": 76, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92434272
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.602069200+02:00", 
+        "used": 92434272, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:05.610795200+02:00", 
+        "jvmUser": 0.0814626, 
+        "jvmSystem": 0.0025457062, 
+        "machineTotal": 0.084008306
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.135593900+02:00", 
+        "gcId": 77, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297955168
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.138091400+02:00", 
+        "gcId": 77, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.625197800+02:00", 
+        "used": 264527856, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.634598300+02:00", 
+        "jvmUser": 0.08272097, 
+        "jvmSystem": 0.0012726303, 
+        "machineTotal": 0.09477286
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.722400700+02:00", 
+        "gcId": 78, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:06.724624800+02:00", 
+        "gcId": 78, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.267350300+02:00", 
+        "gcId": 79, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.269649600+02:00", 
+        "gcId": 79, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92561392
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.646208400+02:00", 
+        "used": 230973424, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.654562400+02:00", 
+        "jvmUser": 0.077793434, 
+        "jvmSystem": 0.0025506045, 
+        "machineTotal": 0.08215658
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.861762400+02:00", 
+        "gcId": 80, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:07.863818600+02:00", 
+        "gcId": 80, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92211888
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:08.412390800+02:00", 
+        "gcId": 81, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297732784
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:08.414503400+02:00", 
+        "gcId": 81, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 92457680
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:08.665358100+02:00", 
+        "used": 172149456, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:08.673927700+02:00", 
+        "jvmUser": 0.07537902, 
+        "jvmSystem": 0.006388053, 
+        "machineTotal": 0.10439579
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.019804500+02:00", 
+        "gcId": 82, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297978576
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.021483700+02:00", 
+        "gcId": 82, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88124984
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.682411600+02:00", 
+        "used": 260091448, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.690925400+02:00", 
+        "jvmUser": 0.07425421, 
+        "jvmSystem": 0.0025604898, 
+        "machineTotal": 0.0923058
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.798025300+02:00", 
+        "gcId": 83, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 297840184
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:09.799866100+02:00", 
+        "gcId": 83, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 86473984
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:10.543460500+02:00", 
+        "gcId": 84, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 296189184
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:10.545002+02:00", 
+        "gcId": 84, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88367088
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:10.702690200+02:00", 
+        "used": 138698736, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:10.711296300+02:00", 
+        "jvmUser": 0.07019133, 
+        "jvmSystem": 0.0051048244, 
+        "machineTotal": 0.08751371
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.178163800+02:00", 
+        "gcId": 85, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 298082288
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.179873200+02:00", 
+        "gcId": 85, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88808088
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.720802500+02:00", 
+        "used": 256580248, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.729421500+02:00", 
+        "jvmUser": 0.07417661, 
+        "jvmSystem": 0.007673443, 
+        "machineTotal": 0.08185005
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.852025+02:00", 
+        "gcId": 86, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 294328984
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:11.853426800+02:00", 
+        "gcId": 86, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 88467616
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:12.595958500+02:00", 
+        "gcId": 87, 
+        "when": "Before GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 293988512
+      }
+    }, {
+      "type": "jdk.GCHeapSummary", 
+      "values": {
+        "startTime": "2026-07-10T12:53:12.597663400+02:00", 
+        "gcId": 87, 
+        "when": "After GC", 
+        "heapSpace": {
+          "start": 27917287424, 
+          "committedEnd": 28277997568, 
+          "committedSize": 360710144, 
+          "reservedEnd": 34359738368, 
+          "reservedSize": 6442450944
+        }, 
+        "heapUsed": 85628744
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:12.740454100+02:00", 
+        "used": 106600264, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:12.749225400+02:00", 
+        "jvmUser": 0.080451444, 
+        "jvmSystem": 0.006385035, 
+        "machineTotal": 0.09715633
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:13.755417600+02:00", 
+        "used": 152737608, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:13.765222500+02:00", 
+        "jvmUser": 0.056391794, 
+        "jvmSystem": 0.008971422, 
+        "machineTotal": 0.100293756
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:14.776479+02:00", 
+        "used": 152737608, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:14.785803900+02:00", 
+        "jvmUser": 0.05738869, 
+        "jvmSystem": 0.02423078, 
+        "machineTotal": 0.09963647
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:15.797583900+02:00", 
+        "used": 152737608, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:15.806921400+02:00", 
+        "jvmUser": 0.07650485, 
+        "jvmSystem": 0.0051003234, 
+        "machineTotal": 0.09724234
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:16.819835800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:16.829968400+02:00", 
+        "jvmUser": 0.053497702, 
+        "jvmSystem": 0.034391377, 
+        "machineTotal": 0.09015617
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:17.842824500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:17.851653700+02:00", 
+        "jvmUser": 0.029303288, 
+        "jvmSystem": 0.052236296, 
+        "machineTotal": 0.099635236
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:18.866782300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:18.876433200+02:00", 
+        "jvmUser": 0.020325221, 
+        "jvmSystem": 0.06478664, 
+        "machineTotal": 0.090446055
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:19.889830700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:19.899048900+02:00", 
+        "jvmUser": 0.020384874, 
+        "jvmSystem": 0.062428676, 
+        "machineTotal": 0.09885142
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:20.909891700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:20.919497800+02:00", 
+        "jvmUser": 0.039534345, 
+        "jvmSystem": 0.045910854, 
+        "machineTotal": 0.0854452
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:21.930805100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:21.939852900+02:00", 
+        "jvmUser": 0.06510416, 
+        "jvmSystem": 0.020424835, 
+        "machineTotal": 0.099637
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:22.950822100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:22.959428500+02:00", 
+        "jvmUser": 0.076592945, 
+        "jvmSystem": 0.0051061963, 
+        "machineTotal": 0.10426017
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:23.973002200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:23.982274500+02:00", 
+        "jvmUser": 0.057266165, 
+        "jvmSystem": 0.027996792, 
+        "machineTotal": 0.09901347
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:24.996013200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:25.006629600+02:00", 
+        "jvmUser": 0.033060677, 
+        "jvmSystem": 0.05086258, 
+        "machineTotal": 0.108633034
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:26.019994100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:26.028869500+02:00", 
+        "jvmUser": 0.059880678, 
+        "jvmSystem": 0.02548114, 
+        "machineTotal": 0.085361816
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:27.043021600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:27.052318300+02:00", 
+        "jvmUser": 0.062306654, 
+        "jvmSystem": 0.02288816, 
+        "machineTotal": 0.10736188
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:28.064005700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:28.075823600+02:00", 
+        "jvmUser": 0.04963955, 
+        "jvmSystem": 0.035638653, 
+        "machineTotal": 0.09375941
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:29.086015700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:29.094482300+02:00", 
+        "jvmUser": 0.056223437, 
+        "jvmSystem": 0.028111719, 
+        "machineTotal": 0.09275858
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:30.106432600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:30.114788+02:00", 
+        "jvmUser": 0.0727325, 
+        "jvmSystem": 0.01020807, 
+        "machineTotal": 0.11189783
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:31.114507900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:31.123453300+02:00", 
+        "jvmUser": 0.04391949, 
+        "jvmSystem": 0.04262774, 
+        "machineTotal": 0.08654723
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:32.136453600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:32.145815+02:00", 
+        "jvmUser": 0.044548295, 
+        "jvmSystem": 0.038184255, 
+        "machineTotal": 0.10051834
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:33.159501400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:33.167566900+02:00", 
+        "jvmUser": 0.06497677, 
+        "jvmSystem": 0.020384869, 
+        "machineTotal": 0.08536164
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:34.182447400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:34.191830100+02:00", 
+        "jvmUser": 0.043275498, 
+        "jvmSystem": 0.03945707, 
+        "machineTotal": 0.099731445
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:35.206473400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:35.216023700+02:00", 
+        "jvmUser": 0.03810852, 
+        "jvmSystem": 0.04700051, 
+        "machineTotal": 0.08577379
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:36.228473500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:36.238505100+02:00", 
+        "jvmUser": 0.053510252, 
+        "jvmSystem": 0.030577287, 
+        "machineTotal": 0.10394271
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:37.250470300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:37.259356200+02:00", 
+        "jvmUser": 0.030607266, 
+        "jvmSystem": 0.053562716, 
+        "machineTotal": 0.098754294
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:38.274453900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:38.282881700+02:00", 
+        "jvmUser": 0.057220448, 
+        "jvmSystem": 0.029246006, 
+        "machineTotal": 0.087015726
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:39.297488+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:39.306850800+02:00", 
+        "jvmUser": 0.052134197, 
+        "jvmSystem": 0.03306071, 
+        "machineTotal": 0.0984597
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:40.321484400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:40.330292500+02:00", 
+        "jvmUser": 0.039457064, 
+        "jvmSystem": 0.044548295, 
+        "machineTotal": 0.09757859
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:41.344333+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:41.353473900+02:00", 
+        "jvmUser": 0.048372973, 
+        "jvmSystem": 0.035643242, 
+        "machineTotal": 0.09452857
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:42.368349900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:42.377610300+02:00", 
+        "jvmUser": 0.054623995, 
+        "jvmSystem": 0.030487811, 
+        "machineTotal": 0.0959168
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:43.391017500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:43.400232500+02:00", 
+        "jvmUser": 0.06882562, 
+        "jvmSystem": 0.015294582, 
+        "machineTotal": 0.09722842
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:44.413930+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:44.423338500+02:00", 
+        "jvmUser": 0.06357824, 
+        "jvmSystem": 0.022888165, 
+        "machineTotal": 0.08866954
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:45.436922700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:45.445298700+02:00", 
+        "jvmUser": 0.05988058, 
+        "jvmSystem": 0.022932988, 
+        "machineTotal": 0.09796958
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:46.458688600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:46.468973400+02:00", 
+        "jvmUser": 0.0318277, 
+        "jvmSystem": 0.053470533, 
+        "machineTotal": 0.094432265
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:47.481702900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:47.490952500+02:00", 
+        "jvmUser": 0.033093035, 
+        "jvmSystem": 0.049639557, 
+        "machineTotal": 0.096695594
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:48.501715500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:48.511793100+02:00", 
+        "jvmUser": 0.044678804, 
+        "jvmSystem": 0.040849194, 
+        "machineTotal": 0.085527994
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:49.522698300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:49.532495800+02:00", 
+        "jvmUser": 0.028056646, 
+        "jvmSystem": 0.05483799, 
+        "machineTotal": 0.09237137
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:50.545698+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:50.555042800+02:00", 
+        "jvmUser": 0.034365844, 
+        "jvmSystem": 0.04836674, 
+        "machineTotal": 0.09503304
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:51.568846+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:51.578361700+02:00", 
+        "jvmUser": 0.05345796, 
+        "jvmSystem": 0.031820215, 
+        "machineTotal": 0.08739618
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:52.589752200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:52.599565+02:00", 
+        "jvmUser": 0.04590871, 
+        "jvmSystem": 0.03825726, 
+        "machineTotal": 0.10860604
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:53.611756800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:53.621221800+02:00", 
+        "jvmUser": 0.036947526, 
+        "jvmSystem": 0.047139946, 
+        "machineTotal": 0.0928733
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:54.634747+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:54.644251200+02:00", 
+        "jvmUser": 0.04454834, 
+        "jvmSystem": 0.0394571, 
+        "machineTotal": 0.10776127
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:55.658759800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:55.668383600+02:00", 
+        "jvmUser": 0.052134246, 
+        "jvmSystem": 0.031789176, 
+        "machineTotal": 0.08574406
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:56.678760300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:56.688274+02:00", 
+        "jvmUser": 0.024278278, 
+        "jvmSystem": 0.058778986, 
+        "machineTotal": 0.094923794
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:57.702392900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:57.710847600+02:00", 
+        "jvmUser": 0.062343042, 
+        "jvmSystem": 0.020356912, 
+        "machineTotal": 0.10469358
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:58.710153500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:58.718984200+02:00", 
+        "jvmUser": 0.06717098, 
+        "jvmSystem": 0.018084494, 
+        "machineTotal": 0.089316584
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:53:59.734151800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:53:59.742956800+02:00", 
+        "jvmUser": 0.052134212, 
+        "jvmSystem": 0.030517587, 
+        "machineTotal": 0.10100329
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:00.757157400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:00.766293100+02:00", 
+        "jvmUser": 0.04582108, 
+        "jvmSystem": 0.039457045, 
+        "machineTotal": 0.09591626
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:01.781146400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:01.789556600+02:00", 
+        "jvmUser": 0.06103518, 
+        "jvmSystem": 0.021616627, 
+        "machineTotal": 0.10776179
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:02.802157+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:02.812632400+02:00", 
+        "jvmUser": 0.052236214, 
+        "jvmSystem": 0.035673514, 
+        "machineTotal": 0.0924873
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:03.826159900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:03.835516200+02:00", 
+        "jvmUser": 0.05091237, 
+        "jvmSystem": 0.03182023, 
+        "machineTotal": 0.10903382
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:04.848165200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:04.857372300+02:00", 
+        "jvmUser": 0.059822, 
+        "jvmSystem": 0.02545617, 
+        "machineTotal": 0.09032507
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:05.871174200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:05.879754900+02:00", 
+        "jvmUser": 0.033125415, 
+        "jvmSystem": 0.04968812, 
+        "machineTotal": 0.117081046
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:06.894172400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:06.905125100+02:00", 
+        "jvmUser": 0.024136176, 
+        "jvmSystem": 0.060975604, 
+        "machineTotal": 0.094257884
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:07.927180600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:07.936541600+02:00", 
+        "jvmUser": 0.054253474, 
+        "jvmSystem": 0.030281007, 
+        "machineTotal": 0.10040183
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:08.948169200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:08.956956300+02:00", 
+        "jvmUser": 0.04723243, 
+        "jvmSystem": 0.03574346, 
+        "machineTotal": 0.10896603
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:09.967927300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:09.978214300+02:00", 
+        "jvmUser": 0.039505534, 
+        "jvmSystem": 0.040779907, 
+        "machineTotal": 0.10284279
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:10.988115600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:10.997223300+02:00", 
+        "jvmUser": 0.062660664, 
+        "jvmSystem": 0.017903047, 
+        "machineTotal": 0.08784002
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:12.011158400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:12.020813500+02:00", 
+        "jvmUser": 0.064849816, 
+        "jvmSystem": 0.01780191, 
+        "machineTotal": 0.10394263
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:13.026328300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:13.036006500+02:00", 
+        "jvmUser": 0.05899914, 
+        "jvmSystem": 0.016673671, 
+        "machineTotal": 0.09192663
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:14.041802100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:14.052061800+02:00", 
+        "jvmUser": 0.04872573, 
+        "jvmSystem": 0.032056402, 
+        "machineTotal": 0.09946124
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:15.062788600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:15.073765600+02:00", 
+        "jvmUser": 0.035673436, 
+        "jvmSystem": 0.047139898, 
+        "machineTotal": 0.08688526
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:16.084776300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:16.094747100+02:00", 
+        "jvmUser": 0.029331975, 
+        "jvmSystem": 0.053562734, 
+        "machineTotal": 0.10346207
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:17.107290600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:17.117286+02:00", 
+        "jvmUser": 0.026742186, 
+        "jvmSystem": 0.05475781, 
+        "machineTotal": 0.09674257
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:18.130521500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:18.140364700+02:00", 
+        "jvmUser": 0.034358084, 
+        "jvmSystem": 0.052173387, 
+        "machineTotal": 0.08653147
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:19.152504700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:19.161026300+02:00", 
+        "jvmUser": 0.03825906, 
+        "jvmSystem": 0.047186173, 
+        "machineTotal": 0.11621585
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:20.174505+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:20.183236800+02:00", 
+        "jvmUser": 0.054784294, 
+        "jvmSystem": 0.031851336, 
+        "machineTotal": 0.092873216
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:21.196506600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:21.205465800+02:00", 
+        "jvmUser": 0.076443255, 
+        "jvmSystem": 0.0076443255, 
+        "machineTotal": 0.108162396
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:22.218595400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:22.228033400+02:00", 
+        "jvmUser": 0.054730806, 
+        "jvmSystem": 0.028001808, 
+        "machineTotal": 0.10394262
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:23.241525300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:23.250628300+02:00", 
+        "jvmUser": 0.052236196, 
+        "jvmSystem": 0.034399446, 
+        "machineTotal": 0.10266962
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:24.263492100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:24.273889300+02:00", 
+        "jvmUser": 0.047093924, 
+        "jvmSystem": 0.035638645, 
+        "machineTotal": 0.11157966
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:25.284509100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:25.293147+02:00", 
+        "jvmUser": 0.07276347, 
+        "jvmSystem": 0.012765521, 
+        "machineTotal": 0.08636938
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:26.306930500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:26.315760800+02:00", 
+        "jvmUser": 0.036932953, 
+        "jvmSystem": 0.045847803, 
+        "machineTotal": 0.10342115
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:27.329244800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:27.338508100+02:00", 
+        "jvmUser": 0.034354787, 
+        "jvmSystem": 0.049623583, 
+        "machineTotal": 0.10041399
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:28.352256600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:28.361507900+02:00", 
+        "jvmUser": 0.056003567, 
+        "jvmSystem": 0.029274592, 
+        "machineTotal": 0.08994129
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:29.373359100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:29.382450500+02:00", 
+        "jvmUser": 0.06886079, 
+        "jvmSystem": 0.015302398, 
+        "machineTotal": 0.103534415
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:30.395328500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:30.405414200+02:00", 
+        "jvmUser": 0.0496881, 
+        "jvmSystem": 0.03567351, 
+        "machineTotal": 0.08536161
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:31.418382100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:31.427152300+02:00", 
+        "jvmUser": 0.047140017, 
+        "jvmSystem": 0.035673525, 
+        "machineTotal": 0.099636994
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:32.440587700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:32.449163900+02:00", 
+        "jvmUser": 0.05986467, 
+        "jvmSystem": 0.025474329, 
+        "machineTotal": 0.085338995
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:33.462009100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:33.471369400+02:00", 
+        "jvmUser": 0.05604269, 
+        "jvmSystem": 0.029295042, 
+        "machineTotal": 0.109686136
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:34.483499200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:34.492546300+02:00", 
+        "jvmUser": 0.022965955, 
+        "jvmSystem": 0.05869077, 
+        "machineTotal": 0.1013801
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:35.506499+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:35.515872400+02:00", 
+        "jvmUser": 0.053405765, 
+        "jvmSystem": 0.031789146, 
+        "machineTotal": 0.08994148
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:36.893919600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:36.903721200+02:00", 
+        "jvmUser": 0.028153216, 
+        "jvmSystem": 0.056306433, 
+        "machineTotal": 0.093466245
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:37.916373300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:37.927751200+02:00", 
+        "jvmUser": 0.044528354, 
+        "jvmSystem": 0.03816716, 
+        "machineTotal": 0.10776069
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:38.939532800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:38.948117400+02:00", 
+        "jvmUser": 0.04336026, 
+        "jvmSystem": 0.04336026, 
+        "machineTotal": 0.09237128
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:39.961367900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:39.970455200+02:00", 
+        "jvmUser": 0.038221654, 
+        "jvmSystem": 0.045865986, 
+        "machineTotal": 0.095032424
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:40.984369300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:40.995030500+02:00", 
+        "jvmUser": 0.04450476, 
+        "jvmSystem": 0.043233197, 
+        "machineTotal": 0.099731974
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:42.006388500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:42.016403800+02:00", 
+        "jvmUser": 0.03694757, 
+        "jvmSystem": 0.047140002, 
+        "machineTotal": 0.09669542
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:43.028940600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:43.038323300+02:00", 
+        "jvmUser": 0.038200032, 
+        "jvmSystem": 0.044566702, 
+        "machineTotal": 0.1001465
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:44.051942700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:44.061997800+02:00", 
+        "jvmUser": 0.040729884, 
+        "jvmSystem": 0.04454831, 
+        "machineTotal": 0.08527819
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:45.075265600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:45.084788900+02:00", 
+        "jvmUser": 0.048352085, 
+        "jvmSystem": 0.034355428, 
+        "machineTotal": 0.10333776
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:46.099248200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:46.107667800+02:00", 
+        "jvmUser": 0.043317843, 
+        "jvmSystem": 0.04204379, 
+        "machineTotal": 0.08536164
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:47.119934100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:47.129289200+02:00", 
+        "jvmUser": 0.03437708, 
+        "jvmSystem": 0.048382558, 
+        "machineTotal": 0.10149771
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:48.142959500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:48.151748200+02:00", 
+        "jvmUser": 0.040769733, 
+        "jvmSystem": 0.044591896, 
+        "machineTotal": 0.08536163
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:49.166922+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:49.175741600+02:00", 
+        "jvmUser": 0.04704793, 
+        "jvmSystem": 0.03560384, 
+        "machineTotal": 0.099731356
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:50.190981300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:50.200061600+02:00", 
+        "jvmUser": 0.04450481, 
+        "jvmSystem": 0.040690113, 
+        "machineTotal": 0.08519492
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:51.214913500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:51.224038900+02:00", 
+        "jvmUser": 0.035603836, 
+        "jvmSystem": 0.047047928, 
+        "machineTotal": 0.10227461
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:52.237917400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:52.246991300+02:00", 
+        "jvmUser": 0.05982201, 
+        "jvmSystem": 0.025456175, 
+        "machineTotal": 0.08527818
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:53.261912900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:53.271242600+02:00", 
+        "jvmUser": 0.02667683, 
+        "jvmSystem": 0.054623984, 
+        "machineTotal": 0.108632684
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:54.284920200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:54.293849900+02:00", 
+        "jvmUser": 0.056058444, 
+        "jvmSystem": 0.029303277, 
+        "machineTotal": 0.08536172
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:55.308982400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:55.317475400+02:00", 
+        "jvmUser": 0.04450475, 
+        "jvmSystem": 0.038146928, 
+        "machineTotal": 0.0984618
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:56.316934+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:56.325343900+02:00", 
+        "jvmUser": 0.02971024, 
+        "jvmSystem": 0.055545233, 
+        "machineTotal": 0.08673233
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:57.339910200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:57.349395600+02:00", 
+        "jvmUser": 0.048366718, 
+        "jvmSystem": 0.034365825, 
+        "machineTotal": 0.10100382
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:58.360909200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:58.369914700+02:00", 
+        "jvmUser": 0.026781347, 
+        "jvmSystem": 0.0573886, 
+        "machineTotal": 0.08416995
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:54:59.382986300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:54:59.392398200+02:00", 
+        "jvmUser": 0.04327554, 
+        "jvmSystem": 0.04200273, 
+        "machineTotal": 0.096695505
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:00.406912600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:00.417073600+02:00", 
+        "jvmUser": 0.049590953, 
+        "jvmSystem": 0.036875322, 
+        "machineTotal": 0.092987806
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:01.429914600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:01.437752900+02:00", 
+        "jvmUser": 0.028056672, 
+        "jvmSystem": 0.05483804, 
+        "machineTotal": 0.0949245
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:02.451009300+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:02.459579800+02:00", 
+        "jvmUser": 0.0586065, 
+        "jvmSystem": 0.024207033, 
+        "machineTotal": 0.09542161
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:03.472618500+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:03.481729500+02:00", 
+        "jvmUser": 0.05862347, 
+        "jvmSystem": 0.026762888, 
+        "machineTotal": 0.09604458
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:04.492766400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:04.501943400+02:00", 
+        "jvmUser": 0.029358616, 
+        "jvmSystem": 0.054887846, 
+        "machineTotal": 0.11158345
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:05.514683900+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:05.523059600+02:00", 
+        "jvmUser": 0.028029257, 
+        "jvmSystem": 0.054784458, 
+        "machineTotal": 0.09453236
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:06.537810100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:06.547479700+02:00", 
+        "jvmUser": 0.026699372, 
+        "jvmSystem": 0.05848434, 
+        "machineTotal": 0.09094978
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:07.559824100+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:07.568312500+02:00", 
+        "jvmUser": 0.03570852, 
+        "jvmSystem": 0.047186263, 
+        "machineTotal": 0.104736865
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:08.582821700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:08.591985900+02:00", 
+        "jvmUser": 0.04582114, 
+        "jvmSystem": 0.039457094, 
+        "machineTotal": 0.087015286
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:09.605986700+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:09.615828200+02:00", 
+        "jvmUser": 0.039418504, 
+        "jvmSystem": 0.043233197, 
+        "machineTotal": 0.10139698
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:10.626961800+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:10.635823+02:00", 
+        "jvmUser": 0.03956772, 
+        "jvmSystem": 0.04594961, 
+        "machineTotal": 0.08551733
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:11.650967200+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:11.659903700+02:00", 
+        "jvmUser": 0.048319582, 
+        "jvmSystem": 0.033060767, 
+        "machineTotal": 0.10863103
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:12.674960400+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:12.684610500+02:00", 
+        "jvmUser": 0.047002014, 
+        "jvmSystem": 0.038109742, 
+        "machineTotal": 0.08511175
+      }
+    }, {
+      "type": "jdk.GCHeapMemoryUsage", 
+      "values": {
+        "startTime": "2026-07-10T12:55:13.696954600+02:00", 
+        "used": 156931912, 
+        "committed": 360710144, 
+        "max": 6442450944
+      }
+    }, {
+      "type": "jdk.CPULoad", 
+      "values": {
+        "startTime": "2026-07-10T12:55:13.706170200+02:00", 
+        "jvmUser": 0.04080969, 
+        "jvmSystem": 0.042084996, 
+        "machineTotal": 0.09669543
+      }
+    }]
+  }
+}

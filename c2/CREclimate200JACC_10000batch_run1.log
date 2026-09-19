@@ -1,0 +1,78 @@
+Juni 29, 2026 9:57:03 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 29, 2026 9:57:03 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 29, 2026 9:57:04 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juni 29, 2026 9:57:05 AM cre.CRELogger logInfo
+INFORMATION: Load time is 1.448 seconds
+Juni 29, 2026 9:57:05 AM cre.CRELogger logInfo
+INFORMATION: Load Memory usage 336.0 MBytes
+Juni 29, 2026 9:57:11 AM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 128768
+Juni 29, 2026 9:57:11 AM cre.CRELogger logInfo
+INFORMATION: Update time is 4.575 seconds
+Juni 29, 2026 9:57:11 AM cre.CRELogger logInfo
+INFORMATION: Update Memory usage 0.0 MBytes
+Juni 29, 2026 10:05:31 AM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > generateAutoMatching > Time is 499,8 seconds
+Juni 29, 2026 10:05:38 AM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juni 29, 2026 10:05:52 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 98772, time = 14,1
+Juni 29, 2026 10:05:59 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 60674, time = 7,7
+Juni 29, 2026 10:06:08 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 66082, time = 8,4
+Juni 29, 2026 10:06:17 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 60487, time = 9,1
+Juni 29, 2026 10:06:26 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 49167, time = 9,3
+Juni 29, 2026 10:06:33 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 31578, time = 7,3
+Juni 29, 2026 10:06:40 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16783, time = 7,0
+Juni 29, 2026 10:06:47 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 8162, time = 6,8
+Juni 29, 2026 10:06:54 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4254, time = 6,9
+Juni 29, 2026 10:07:02 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 2768, time = 7,6
+Juni 29, 2026 10:07:09 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1707, time = 7,4
+Juni 29, 2026 10:07:17 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 803, time = 7,6
+Juni 29, 2026 10:07:26 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 345, time = 8,8
+Juni 29, 2026 10:07:34 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 201, time = 8,8
+Juni 29, 2026 10:07:43 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 93, time = 8,2
+Juni 29, 2026 10:07:50 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 37, time = 8,0
+Juni 29, 2026 10:08:00 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16, time = 9,2
+Juni 29, 2026 10:08:08 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 13, time = 8,6
+Juni 29, 2026 10:08:17 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4, time = 8,9
+Juni 29, 2026 10:08:29 AM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > updateClustering > Time is 177,3 seconds
+Juni 29, 2026 10:08:31 AM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juni 29, 2026 10:08:32 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 20055, time = 0,4
+Juni 29, 2026 10:08:32 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1435, time = 0,3
+Juni 29, 2026 10:08:32 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 369, time = 0,3
+Juni 29, 2026 10:08:33 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 129, time = 0,3
+Juni 29, 2026 10:08:33 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 54, time = 0,3
+Juni 29, 2026 10:08:33 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16, time = 0,4
+Juni 29, 2026 10:08:34 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 14, time = 0,3
+Juni 29, 2026 10:08:34 AM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 2, time = 0,3

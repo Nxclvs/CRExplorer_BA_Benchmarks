@@ -1,0 +1,36 @@
+Juli 13, 2026 4:46:11 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 13, 2026 4:46:11 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 13, 2026 4:46:12 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 13, 2026 4:46:16 PM cre.CRELogger logInfo
+INFORMATION: Load time is 3.629 seconds
+Juli 13, 2026 4:46:16 PM cre.CRELogger logInfo
+INFORMATION: Load Memory usage 192.0 MBytes
+Juli 13, 2026 4:46:24 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 128768
+Juli 13, 2026 4:46:24 PM cre.CRELogger logInfo
+INFORMATION: Update time is 5.47 seconds
+Juli 13, 2026 4:46:24 PM cre.CRELogger logInfo
+INFORMATION: Update Memory usage 344.0 MBytes
+Juli 13, 2026 4:50:27 PM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 805306368
+Juli 13, 2026 4:50:27 PM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 400454416
+Juli 13, 2026 4:54:04 PM cre.CRELogger logInfo
+INFORMATION: Total memory (bytes): 805306368
+Juli 13, 2026 4:54:04 PM cre.CRELogger logInfo
+INFORMATION: Free memory (bytes): 98078336
+Juli 13, 2026 4:54:14 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > generateAutoMatching > Time is 470,4 seconds
+Juli 13, 2026 4:54:37 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 13, 2026 4:55:11 PM cre.CRELogger logInfo
+INFORMATION: updateClustering done (postgres loop), time = 33,8
+Juli 13, 2026 4:55:13 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > updateClustering > Time is 58,9 seconds
+Juli 13, 2026 4:55:15 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 13, 2026 4:55:19 PM cre.CRELogger logInfo
+INFORMATION: updateClustering done (postgres loop), time = 3,9

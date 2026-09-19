@@ -1,0 +1,88 @@
+Juli 10, 2026 12:55:19 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 10, 2026 12:55:19 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 10, 2026 12:55:20 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 0
+Juli 10, 2026 12:55:20 PM cre.CRELogger logInfo
+INFORMATION: Load time is 0.666 seconds
+Juli 10, 2026 12:55:20 PM cre.CRELogger logInfo
+INFORMATION: Load Memory usage 52.0 MBytes
+Juli 10, 2026 12:55:23 PM cre.CRELogger logInfo
+INFORMATION: setSortOrder update: 68542
+Juli 10, 2026 12:55:23 PM cre.CRELogger logInfo
+INFORMATION: Update time is 2.137 seconds
+Juli 10, 2026 12:55:23 PM cre.CRELogger logInfo
+INFORMATION: Update Memory usage 0.0 MBytes
+Juli 10, 2026 12:57:15 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > generateAutoMatching > Time is 111,8 seconds
+Juli 10, 2026 12:57:18 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 10, 2026 12:57:24 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 59073, time = 6,3
+Juli 10, 2026 12:57:27 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 50248, time = 3,3
+Juli 10, 2026 12:57:31 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 46887, time = 3,1
+Juli 10, 2026 12:57:33 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 33490, time = 2,7
+Juli 10, 2026 12:57:35 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 16933, time = 2,3
+Juli 10, 2026 12:57:38 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 6835, time = 2,2
+Juli 10, 2026 12:57:40 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1756, time = 2,1
+Juli 10, 2026 12:57:42 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 425, time = 2,2
+Juli 10, 2026 12:57:44 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 124, time = 2,2
+Juli 10, 2026 12:57:46 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 39, time = 2,2
+Juli 10, 2026 12:57:49 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 20, time = 2,2
+Juli 10, 2026 12:57:51 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 15, time = 2,2
+Juli 10, 2026 12:57:53 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 12, time = 2,1
+Juli 10, 2026 12:57:55 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 5, time = 2,1
+Juli 10, 2026 12:57:57 PM cre.CRELogger logInfo
+INFORMATION: generateInitialClustering > updateClustering > Time is 42,3 seconds
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering Start
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 17038, time = 0,2
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4567, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 2538, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1703, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 1159, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 769, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 611, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 367, time = 0,1
+Juli 10, 2026 12:57:58 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 250, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 202, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 120, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 92, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 71, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 54, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 44, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 33, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 9, time = 0,1
+Juli 10, 2026 12:57:59 PM cre.CRELogger logInfo
+INFORMATION: updateClustering NoOfUpdates = 4, time = 0,1

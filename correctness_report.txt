@@ -1,0 +1,39 @@
+Korrektheitsvergleich crdata.json / crmatch.json gegen Baseline
+Datenordner: D:\BA_Benchmarks\results\data
+==============================================================================
+
+[climate100COS]
+  c1           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2         PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1b      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1bd2    PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1d1bd2      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c2           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1b          PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1bd2        PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+
+[climate100JACC]
+  c1           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2         PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1b      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1bd2    PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1d1bd2      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c2           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1b          PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1bd2        PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+
+[climate100LEV]
+  c1           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2         PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1b      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1c2d1bd2    PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c1d1bd2      PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  c2           PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1b          PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+  d1bd2        PASS  crdata[+0/-0/~0]  crmatch[+0/-0/~0]
+
+==============================================================================
+ZUSAMMENFASSUNG
+  Verglichen: 24 Varianten gegen ihre jeweilige Baseline
+  Abweichungen (FAIL): 0
+  Alle verglichenen Varianten sind inhaltlich äquivalent zur Baseline.

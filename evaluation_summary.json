@@ -1,0 +1,1802 @@
+{
+  "climate100LEV": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 181.59286699999998,
+        "std": 18.900822563203228,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 296.5673243204753,
+        "std": 34.694638877637885,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 370.0,
+        "std": 56.95612346359257,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 171.27113866666664,
+        "std": 6.067642849222115,
+        "n_runs": 3,
+        "pct_change_vs_base": -5.68
+      },
+      "heap_used_mb": {
+        "mean": 282.3056411743164,
+        "std": 46.87391093662919,
+        "n_runs": 3,
+        "pct_change_vs_base": -4.81
+      },
+      "heap_size_mb": {
+        "mean": 350.6666666666667,
+        "std": 81.02674455593863,
+        "n_runs": 3,
+        "pct_change_vs_base": -5.23
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 178.67026733333333,
+        "std": 11.306251729285007,
+        "n_runs": 3,
+        "pct_change_vs_base": -1.61
+      },
+      "heap_used_mb": {
+        "mean": 297.30005645751953,
+        "std": 41.938345787733915,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.25
+      },
+      "heap_size_mb": {
+        "mean": 373.3333333333333,
+        "std": 72.59017380701974,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.9
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 163.2818103333333,
+        "std": 6.304888690938361,
+        "n_runs": 3,
+        "pct_change_vs_base": -10.08
+      },
+      "heap_used_mb": {
+        "mean": 323.56275431315106,
+        "std": 39.16662746003926,
+        "n_runs": 3,
+        "pct_change_vs_base": 9.1
+      },
+      "heap_size_mb": {
+        "mean": 409.3333333333333,
+        "std": 69.55094056397321,
+        "n_runs": 3,
+        "pct_change_vs_base": 10.63
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 103.49787400000001,
+        "std": 3.4581850434224872,
+        "n_runs": 3,
+        "pct_change_vs_base": -43.01
+      },
+      "heap_used_mb": {
+        "mean": 436.5901794433594,
+        "std": 30.501772160750342,
+        "n_runs": 3,
+        "pct_change_vs_base": 47.21
+      },
+      "heap_size_mb": {
+        "mean": 494.6666666666667,
+        "std": 6.110100926607787,
+        "n_runs": 3,
+        "pct_change_vs_base": 33.69
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 109.72300966666667,
+        "std": 5.257730714021246,
+        "n_runs": 3,
+        "pct_change_vs_base": -39.58
+      },
+      "heap_used_mb": {
+        "mean": 377.12084197998047,
+        "std": 38.64552705259756,
+        "n_runs": 3,
+        "pct_change_vs_base": 27.16
+      },
+      "heap_size_mb": {
+        "mean": 476.0,
+        "std": 104.23051376636306,
+        "n_runs": 3,
+        "pct_change_vs_base": 28.65
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 120.02480766666667,
+        "std": 11.228689183821068,
+        "n_runs": 3,
+        "pct_change_vs_base": -33.9
+      },
+      "heap_used_mb": {
+        "mean": 373.5352732340495,
+        "std": 91.05252167364075,
+        "n_runs": 3,
+        "pct_change_vs_base": 25.95
+      },
+      "heap_size_mb": {
+        "mean": 449.3333333333333,
+        "std": 129.38830446888673,
+        "n_runs": 3,
+        "pct_change_vs_base": 21.44
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 119.78711566666668,
+        "std": 9.455900267968216,
+        "n_runs": 3,
+        "pct_change_vs_base": -34.04
+      },
+      "heap_used_mb": {
+        "mean": 297.8418960571289,
+        "std": 32.42207971341372,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.43
+      },
+      "heap_size_mb": {
+        "mean": 334.6666666666667,
+        "std": 38.4360941477322,
+        "n_runs": 3,
+        "pct_change_vs_base": -9.55
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 106.26998466666667,
+        "std": 3.0212700807786668,
+        "n_runs": 3,
+        "pct_change_vs_base": -41.48
+      },
+      "heap_used_mb": {
+        "mean": 332.43151601155597,
+        "std": 37.650848145137694,
+        "n_runs": 3,
+        "pct_change_vs_base": 12.09
+      },
+      "heap_size_mb": {
+        "mean": 368.0,
+        "std": 44.0,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.54
+      }
+    }
+  },
+  "climate100COS": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 176.997237,
+        "std": 9.968662055667203,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 412.8227284749349,
+        "std": 54.93150911325253,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 496.6666666666667,
+        "std": 106.32654105788137,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 174.34511733333338,
+        "std": 5.536157470145729,
+        "n_runs": 3,
+        "pct_change_vs_base": -1.5
+      },
+      "heap_used_mb": {
+        "mean": 458.7566630045573,
+        "std": 78.03657436756475,
+        "n_runs": 3,
+        "pct_change_vs_base": 11.13
+      },
+      "heap_size_mb": {
+        "mean": 590.6666666666666,
+        "std": 151.91225537570475,
+        "n_runs": 3,
+        "pct_change_vs_base": 18.93
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 168.53536633333331,
+        "std": 7.039249837315084,
+        "n_runs": 3,
+        "pct_change_vs_base": -4.78
+      },
+      "heap_used_mb": {
+        "mean": 501.9975865681966,
+        "std": 16.41060043194765,
+        "n_runs": 3,
+        "pct_change_vs_base": 21.6
+      },
+      "heap_size_mb": {
+        "mean": 664.0,
+        "std": 28.844410203711913,
+        "n_runs": 3,
+        "pct_change_vs_base": 33.69
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 165.26540166666666,
+        "std": 2.9649734619199113,
+        "n_runs": 3,
+        "pct_change_vs_base": -6.63
+      },
+      "heap_used_mb": {
+        "mean": 451.06605529785156,
+        "std": 47.65442688305744,
+        "n_runs": 3,
+        "pct_change_vs_base": 9.26
+      },
+      "heap_size_mb": {
+        "mean": 577.3333333333334,
+        "std": 91.41845182091706,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.24
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 154.332957,
+        "std": 3.618362972919796,
+        "n_runs": 3,
+        "pct_change_vs_base": -12.8
+      },
+      "heap_used_mb": {
+        "mean": 479.7188008626302,
+        "std": 47.1924081505352,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.2
+      },
+      "heap_size_mb": {
+        "mean": 526.6666666666666,
+        "std": 44.959240800232976,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.04
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 164.17436533333333,
+        "std": 5.299106291937374,
+        "n_runs": 3,
+        "pct_change_vs_base": -7.24
+      },
+      "heap_used_mb": {
+        "mean": 430.96284739176434,
+        "std": 44.287342398247795,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.39
+      },
+      "heap_size_mb": {
+        "mean": 469.3333333333333,
+        "std": 50.80682368868707,
+        "n_runs": 3,
+        "pct_change_vs_base": -5.5
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 182.443953,
+        "std": 2.556251704918747,
+        "n_runs": 3,
+        "pct_change_vs_base": 3.08
+      },
+      "heap_used_mb": {
+        "mean": 410.8620071411133,
+        "std": 66.54426134387073,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.47
+      },
+      "heap_size_mb": {
+        "mean": 446.6666666666667,
+        "std": 70.46512139586032,
+        "n_runs": 3,
+        "pct_change_vs_base": -10.07
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 174.76059866666665,
+        "std": 5.566077404064948,
+        "n_runs": 3,
+        "pct_change_vs_base": -1.26
+      },
+      "heap_used_mb": {
+        "mean": 481.98438771565753,
+        "std": 34.52628413291604,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.75
+      },
+      "heap_size_mb": {
+        "mean": 521.3333333333334,
+        "std": 40.463975747982715,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.97
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 163.21679433333335,
+        "std": 9.716537151871403,
+        "n_runs": 3,
+        "pct_change_vs_base": -7.79
+      },
+      "heap_used_mb": {
+        "mean": 460.2250239054362,
+        "std": 64.49679261851826,
+        "n_runs": 3,
+        "pct_change_vs_base": 11.48
+      },
+      "heap_size_mb": {
+        "mean": 500.0,
+        "std": 62.864934582006846,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.67
+      }
+    }
+  },
+  "climate100JACC": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 175.378482,
+        "std": 10.83004588404781,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 408.6329091389974,
+        "std": 113.26307481771362,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 491.3333333333333,
+        "std": 203.26665573412018,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 172.37281099999998,
+        "std": 2.022295471543904,
+        "n_runs": 3,
+        "pct_change_vs_base": -1.71
+      },
+      "heap_used_mb": {
+        "mean": 537.6436131795248,
+        "std": 10.794368420147197,
+        "n_runs": 3,
+        "pct_change_vs_base": 31.57
+      },
+      "heap_size_mb": {
+        "mean": 716.0,
+        "std": 4.0,
+        "n_runs": 3,
+        "pct_change_vs_base": 45.73
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 174.49989033333335,
+        "std": 11.620052254291505,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.5
+      },
+      "heap_used_mb": {
+        "mean": 565.5936584472656,
+        "std": 12.901828293848792,
+        "n_runs": 3,
+        "pct_change_vs_base": 38.41
+      },
+      "heap_size_mb": {
+        "mean": 772.0,
+        "std": 46.130250378683186,
+        "n_runs": 3,
+        "pct_change_vs_base": 57.12
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 184.01432033333336,
+        "std": 25.76146536720352,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.92
+      },
+      "heap_used_mb": {
+        "mean": 480.6207326253255,
+        "std": 59.193868313087314,
+        "n_runs": 3,
+        "pct_change_vs_base": 17.62
+      },
+      "heap_size_mb": {
+        "mean": 596.0,
+        "std": 106.05658866850281,
+        "n_runs": 3,
+        "pct_change_vs_base": 21.3
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 158.845282,
+        "std": 5.097793428160469,
+        "n_runs": 3,
+        "pct_change_vs_base": -9.43
+      },
+      "heap_used_mb": {
+        "mean": 511.212641398112,
+        "std": 22.33985155953767,
+        "n_runs": 3,
+        "pct_change_vs_base": 25.1
+      },
+      "heap_size_mb": {
+        "mean": 565.3333333333334,
+        "std": 44.06056437828882,
+        "n_runs": 3,
+        "pct_change_vs_base": 15.06
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 161.2221076666667,
+        "std": 1.6567716940436719,
+        "n_runs": 3,
+        "pct_change_vs_base": -8.07
+      },
+      "heap_used_mb": {
+        "mean": 463.54043833414715,
+        "std": 63.45031854567755,
+        "n_runs": 3,
+        "pct_change_vs_base": 13.44
+      },
+      "heap_size_mb": {
+        "mean": 514.6666666666666,
+        "std": 81.71495171223766,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.75
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 186.352226,
+        "std": 13.343672243473714,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.26
+      },
+      "heap_used_mb": {
+        "mean": 490.22948964436847,
+        "std": 118.35480320955644,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.97
+      },
+      "heap_size_mb": {
+        "mean": 574.6666666666666,
+        "std": 203.42402349116324,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.96
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 186.32725566666667,
+        "std": 11.940674876405028,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.24
+      },
+      "heap_used_mb": {
+        "mean": 589.4145914713541,
+        "std": 171.53468352596494,
+        "n_runs": 3,
+        "pct_change_vs_base": 44.24
+      },
+      "heap_size_mb": {
+        "mean": 662.6666666666666,
+        "std": 230.55874161118535,
+        "n_runs": 3,
+        "pct_change_vs_base": 34.87
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 161.371246,
+        "std": 3.8654056703020196,
+        "n_runs": 3,
+        "pct_change_vs_base": -7.99
+      },
+      "heap_used_mb": {
+        "mean": 533.3542505900065,
+        "std": 28.218571354922865,
+        "n_runs": 3,
+        "pct_change_vs_base": 30.52
+      },
+      "heap_size_mb": {
+        "mean": 622.6666666666666,
+        "std": 60.70694633510513,
+        "n_runs": 3,
+        "pct_change_vs_base": 26.73
+      }
+    }
+  },
+  "climate200LEV": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 689.0074646666666,
+        "std": 32.57543978678074,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 397.5431493123372,
+        "std": 4.274188563780823,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 476.6666666666667,
+        "std": 7.571877794400365,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 689.3313696666665,
+        "std": 28.343365370618063,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.05
+      },
+      "heap_used_mb": {
+        "mean": 422.9947331746419,
+        "std": 26.51079298859341,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.4
+      },
+      "heap_size_mb": {
+        "mean": 526.6666666666666,
+        "std": 63.2877028602977,
+        "n_runs": 3,
+        "pct_change_vs_base": 10.49
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 727.7054726666667,
+        "std": 86.88369927955186,
+        "n_runs": 3,
+        "pct_change_vs_base": 5.62
+      },
+      "heap_used_mb": {
+        "mean": 400.3109359741211,
+        "std": 23.518306289219137,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.7
+      },
+      "heap_size_mb": {
+        "mean": 484.0,
+        "std": 52.91502622129181,
+        "n_runs": 3,
+        "pct_change_vs_base": 1.54
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 722.8047156666667,
+        "std": 135.83565099571928,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.91
+      },
+      "heap_used_mb": {
+        "mean": 482.4697672526042,
+        "std": 46.26746570611608,
+        "n_runs": 3,
+        "pct_change_vs_base": 21.36
+      },
+      "heap_size_mb": {
+        "mean": 622.6666666666666,
+        "std": 103.56318522203406,
+        "n_runs": 3,
+        "pct_change_vs_base": 30.63
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 326.8556423333334,
+        "std": 15.945104991581651,
+        "n_runs": 3,
+        "pct_change_vs_base": -52.56
+      },
+      "heap_used_mb": {
+        "mean": 494.5295715332031,
+        "std": 125.95515070989323,
+        "n_runs": 3,
+        "pct_change_vs_base": 24.4
+      },
+      "heap_size_mb": {
+        "mean": 544.0,
+        "std": 152.6302722267113,
+        "n_runs": 3,
+        "pct_change_vs_base": 14.13
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 349.22769666666665,
+        "std": 22.53887231466747,
+        "n_runs": 3,
+        "pct_change_vs_base": -49.31
+      },
+      "heap_used_mb": {
+        "mean": 492.2881596883138,
+        "std": 26.511718413201628,
+        "n_runs": 3,
+        "pct_change_vs_base": 23.83
+      },
+      "heap_size_mb": {
+        "mean": 526.6666666666666,
+        "std": 28.936712552280937,
+        "n_runs": 3,
+        "pct_change_vs_base": 10.49
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 394.28657400000003,
+        "std": 9.913726816270492,
+        "n_runs": 3,
+        "pct_change_vs_base": -42.77
+      },
+      "heap_used_mb": {
+        "mean": 570.2500839233398,
+        "std": 107.00068099204735,
+        "n_runs": 3,
+        "pct_change_vs_base": 43.44
+      },
+      "heap_size_mb": {
+        "mean": 644.0,
+        "std": 137.5790681753587,
+        "n_runs": 3,
+        "pct_change_vs_base": 35.1
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 384.12591999999995,
+        "std": 4.291805239436208,
+        "n_runs": 3,
+        "pct_change_vs_base": -44.25
+      },
+      "heap_used_mb": {
+        "mean": 474.1575622558594,
+        "std": 49.173964040864966,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.27
+      },
+      "heap_size_mb": {
+        "mean": 512.0,
+        "std": 52.306787322488084,
+        "n_runs": 3,
+        "pct_change_vs_base": 7.41
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 320.9719576666667,
+        "std": 5.458406959706687,
+        "n_runs": 3,
+        "pct_change_vs_base": -53.42
+      },
+      "heap_used_mb": {
+        "mean": 538.0334243774414,
+        "std": 84.7581626757835,
+        "n_runs": 3,
+        "pct_change_vs_base": 35.34
+      },
+      "heap_size_mb": {
+        "mean": 590.6666666666666,
+        "std": 110.369077795066,
+        "n_runs": 3,
+        "pct_change_vs_base": 23.92
+      }
+    }
+  },
+  "climate200COS": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 686.1415793333332,
+        "std": 16.6522841548392,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 597.0380859375,
+        "std": 10.871968395061183,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 664.0,
+        "std": 8.0,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 684.9593023333333,
+        "std": 14.757439322710146,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.17
+      },
+      "heap_used_mb": {
+        "mean": 576.0103556315104,
+        "std": 84.14268634771508,
+        "n_runs": 3,
+        "pct_change_vs_base": -3.52
+      },
+      "heap_size_mb": {
+        "mean": 650.6666666666666,
+        "std": 113.72481406154654,
+        "n_runs": 3,
+        "pct_change_vs_base": -2.01
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 716.0800370000001,
+        "std": 66.70163493257496,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.36
+      },
+      "heap_used_mb": {
+        "mean": 647.4833297729492,
+        "std": 15.035461987896682,
+        "n_runs": 3,
+        "pct_change_vs_base": 8.45
+      },
+      "heap_size_mb": {
+        "mean": 748.0,
+        "std": 31.240998703626616,
+        "n_runs": 3,
+        "pct_change_vs_base": 12.65
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 707.2368889999999,
+        "std": 88.27637848600043,
+        "n_runs": 3,
+        "pct_change_vs_base": 3.07
+      },
+      "heap_used_mb": {
+        "mean": 628.4524510701498,
+        "std": 31.679755084819128,
+        "n_runs": 3,
+        "pct_change_vs_base": 5.26
+      },
+      "heap_size_mb": {
+        "mean": 716.0,
+        "std": 41.569219381653056,
+        "n_runs": 3,
+        "pct_change_vs_base": 7.83
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 559.1250163333334,
+        "std": 49.79250821892089,
+        "n_runs": 3,
+        "pct_change_vs_base": -18.51
+      },
+      "heap_used_mb": {
+        "mean": 696.6623967488607,
+        "std": 110.65696807422552,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.69
+      },
+      "heap_size_mb": {
+        "mean": 746.6666666666666,
+        "std": 118.00564958226929,
+        "n_runs": 3,
+        "pct_change_vs_base": 12.45
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 577.5221553333333,
+        "std": 34.41601552379836,
+        "n_runs": 3,
+        "pct_change_vs_base": -15.83
+      },
+      "heap_used_mb": {
+        "mean": 751.9392420450846,
+        "std": 144.56668558711695,
+        "n_runs": 3,
+        "pct_change_vs_base": 25.94
+      },
+      "heap_size_mb": {
+        "mean": 821.3333333333334,
+        "std": 181.95970249847446,
+        "n_runs": 3,
+        "pct_change_vs_base": 23.69
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 602.7102806666667,
+        "std": 7.213521413971234,
+        "n_runs": 3,
+        "pct_change_vs_base": -12.16
+      },
+      "heap_used_mb": {
+        "mean": 548.8195495605469,
+        "std": 51.57104583879469,
+        "n_runs": 3,
+        "pct_change_vs_base": -8.08
+      },
+      "heap_size_mb": {
+        "mean": 622.6666666666666,
+        "std": 103.87171575233236,
+        "n_runs": 3,
+        "pct_change_vs_base": -6.22
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 590.6123249999999,
+        "std": 8.217371331336228,
+        "n_runs": 3,
+        "pct_change_vs_base": -13.92
+      },
+      "heap_used_mb": {
+        "mean": 630.2936350504557,
+        "std": 99.17869754788495,
+        "n_runs": 3,
+        "pct_change_vs_base": 5.57
+      },
+      "heap_size_mb": {
+        "mean": 676.0,
+        "std": 106.05658866850281,
+        "n_runs": 3,
+        "pct_change_vs_base": 1.81
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 535.3245873333333,
+        "std": 29.80774738090685,
+        "n_runs": 3,
+        "pct_change_vs_base": -21.98
+      },
+      "heap_used_mb": {
+        "mean": 612.3611068725586,
+        "std": 100.92083462900268,
+        "n_runs": 3,
+        "pct_change_vs_base": 2.57
+      },
+      "heap_size_mb": {
+        "mean": 657.3333333333334,
+        "std": 104.4094504024101,
+        "n_runs": 3,
+        "pct_change_vs_base": -1.0
+      }
+    }
+  },
+  "climate200JACC": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 629.07787,
+        "std": 7.967186563708089,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 619.647715250651,
+        "std": 47.803697267222105,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 693.3333333333334,
+        "std": 82.03251387915242,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 625.7517940000001,
+        "std": 13.850364436673505,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.53
+      },
+      "heap_used_mb": {
+        "mean": 671.8250172932943,
+        "std": 32.44633957653094,
+        "n_runs": 3,
+        "pct_change_vs_base": 8.42
+      },
+      "heap_size_mb": {
+        "mean": 780.0,
+        "std": 52.91502622129181,
+        "n_runs": 3,
+        "pct_change_vs_base": 12.5
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 646.9615656666666,
+        "std": 41.760602094326686,
+        "n_runs": 3,
+        "pct_change_vs_base": 2.84
+      },
+      "heap_used_mb": {
+        "mean": 663.7388000488281,
+        "std": 62.327643652037054,
+        "n_runs": 3,
+        "pct_change_vs_base": 7.12
+      },
+      "heap_size_mb": {
+        "mean": 770.6666666666666,
+        "std": 106.23244953089115,
+        "n_runs": 3,
+        "pct_change_vs_base": 11.15
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 658.5568476666667,
+        "std": 83.7452216929836,
+        "n_runs": 3,
+        "pct_change_vs_base": 4.69
+      },
+      "heap_used_mb": {
+        "mean": 688.4477717081705,
+        "std": 56.43952633854638,
+        "n_runs": 3,
+        "pct_change_vs_base": 11.1
+      },
+      "heap_size_mb": {
+        "mean": 808.0,
+        "std": 85.5102333057278,
+        "n_runs": 3,
+        "pct_change_vs_base": 16.54
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 547.8421333333334,
+        "std": 19.744392290030262,
+        "n_runs": 3,
+        "pct_change_vs_base": -12.91
+      },
+      "heap_used_mb": {
+        "mean": 716.977902730306,
+        "std": 91.56296122760625,
+        "n_runs": 3,
+        "pct_change_vs_base": 15.71
+      },
+      "heap_size_mb": {
+        "mean": 772.0,
+        "std": 101.42977866484773,
+        "n_runs": 3,
+        "pct_change_vs_base": 11.35
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 554.4283463333333,
+        "std": 19.81158795621467,
+        "n_runs": 3,
+        "pct_change_vs_base": -11.87
+      },
+      "heap_used_mb": {
+        "mean": 698.6391347249349,
+        "std": 133.52010328419314,
+        "n_runs": 3,
+        "pct_change_vs_base": 12.75
+      },
+      "heap_size_mb": {
+        "mean": 753.3333333333334,
+        "std": 132.68509084796727,
+        "n_runs": 3,
+        "pct_change_vs_base": 8.65
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 590.6144443333334,
+        "std": 13.911189672028828,
+        "n_runs": 3,
+        "pct_change_vs_base": -6.11
+      },
+      "heap_used_mb": {
+        "mean": 748.3848520914713,
+        "std": 302.1976922918047,
+        "n_runs": 3,
+        "pct_change_vs_base": 20.78
+      },
+      "heap_size_mb": {
+        "mean": 848.0,
+        "std": 402.551860013092,
+        "n_runs": 3,
+        "pct_change_vs_base": 22.31
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 592.6045946666667,
+        "std": 5.892374785963131,
+        "n_runs": 3,
+        "pct_change_vs_base": -5.8
+      },
+      "heap_used_mb": {
+        "mean": 734.0933456420898,
+        "std": 37.3962214247507,
+        "n_runs": 3,
+        "pct_change_vs_base": 18.47
+      },
+      "heap_size_mb": {
+        "mean": 784.0,
+        "std": 40.59556626036888,
+        "n_runs": 3,
+        "pct_change_vs_base": 13.08
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 541.3902743333334,
+        "std": 51.8138405297422,
+        "n_runs": 3,
+        "pct_change_vs_base": -13.94
+      },
+      "heap_used_mb": {
+        "mean": 617.5976511637369,
+        "std": 77.9026814904637,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.33
+      },
+      "heap_size_mb": {
+        "mean": 741.3333333333334,
+        "std": 151.91225537570475,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.92
+      }
+    }
+  },
+  "climate500LEV": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 4293.701443666666,
+        "std": 1013.9269487591366,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 720.3348236083984,
+        "std": 64.45028322047192,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 764.0,
+        "std": 67.61656601750786,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3878.776601,
+        "std": 190.57005961028514,
+        "n_runs": 3,
+        "pct_change_vs_base": -9.66
+      },
+      "heap_used_mb": {
+        "mean": 619.9602203369141,
+        "std": 140.81845392350587,
+        "n_runs": 3,
+        "pct_change_vs_base": -13.93
+      },
+      "heap_size_mb": {
+        "mean": 665.3333333333334,
+        "std": 151.01434810418954,
+        "n_runs": 3,
+        "pct_change_vs_base": -12.91
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 4142.508798333333,
+        "std": 411.76502891634453,
+        "n_runs": 3,
+        "pct_change_vs_base": -3.52
+      },
+      "heap_used_mb": {
+        "mean": 695.5657399495443,
+        "std": 91.85249111331953,
+        "n_runs": 3,
+        "pct_change_vs_base": -3.44
+      },
+      "heap_size_mb": {
+        "mean": 746.6666666666666,
+        "std": 98.65765724632494,
+        "n_runs": 3,
+        "pct_change_vs_base": -2.27
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3994.1634226666665,
+        "std": 670.5485387843624,
+        "n_runs": 3,
+        "pct_change_vs_base": -6.98
+      },
+      "heap_used_mb": {
+        "mean": 689.6829096476237,
+        "std": 136.36638638877764,
+        "n_runs": 3,
+        "pct_change_vs_base": -4.26
+      },
+      "heap_size_mb": {
+        "mean": 738.6666666666666,
+        "std": 143.68484030451276,
+        "n_runs": 3,
+        "pct_change_vs_base": -3.32
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 1819.9184393333333,
+        "std": 151.5696508767135,
+        "n_runs": 3,
+        "pct_change_vs_base": -57.61
+      },
+      "heap_used_mb": {
+        "mean": 854.34326171875,
+        "std": 99.5898036133019,
+        "n_runs": 3,
+        "pct_change_vs_base": 18.6
+      },
+      "heap_size_mb": {
+        "mean": 910.6666666666666,
+        "std": 105.62827904180459,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.2
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 1919.9583213333335,
+        "std": 69.69854765022289,
+        "n_runs": 3,
+        "pct_change_vs_base": -55.28
+      },
+      "heap_used_mb": {
+        "mean": 764.8568496704102,
+        "std": 78.6656697208403,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.18
+      },
+      "heap_size_mb": {
+        "mean": 813.3333333333334,
+        "std": 80.43216603656359,
+        "n_runs": 3,
+        "pct_change_vs_base": 6.46
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2097.330989,
+        "std": 94.33288857961402,
+        "n_runs": 3,
+        "pct_change_vs_base": -51.15
+      },
+      "heap_used_mb": {
+        "mean": 922.7014617919922,
+        "std": 38.60992322983999,
+        "n_runs": 3,
+        "pct_change_vs_base": 28.09
+      },
+      "heap_size_mb": {
+        "mean": 981.3333333333334,
+        "std": 40.85747585611883,
+        "n_runs": 3,
+        "pct_change_vs_base": 28.45
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2094.4058936666665,
+        "std": 30.781924028175492,
+        "n_runs": 3,
+        "pct_change_vs_base": -51.22
+      },
+      "heap_used_mb": {
+        "mean": 926.9214782714844,
+        "std": 117.86391031877572,
+        "n_runs": 3,
+        "pct_change_vs_base": 28.68
+      },
+      "heap_size_mb": {
+        "mean": 988.0,
+        "std": 124.3864944437297,
+        "n_runs": 3,
+        "pct_change_vs_base": 29.32
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 1791.4934176666666,
+        "std": 154.55276812657414,
+        "n_runs": 3,
+        "pct_change_vs_base": -58.28
+      },
+      "heap_used_mb": {
+        "mean": 863.5860163370768,
+        "std": 207.74677337401178,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.89
+      },
+      "heap_size_mb": {
+        "mean": 920.0,
+        "std": 219.1255347968374,
+        "n_runs": 3,
+        "pct_change_vs_base": 20.42
+      }
+    }
+  },
+  "climate500COS": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3889.0114049999997,
+        "std": 942.1111272110614,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 706.5659866333008,
+        "std": 57.03547404691166,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 750.6666666666666,
+        "std": 61.3297100379036,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3470.2788363333334,
+        "std": 103.73539460325738,
+        "n_runs": 3,
+        "pct_change_vs_base": -10.77
+      },
+      "heap_used_mb": {
+        "mean": 659.4610748291016,
+        "std": 104.80939867737794,
+        "n_runs": 3,
+        "pct_change_vs_base": -6.67
+      },
+      "heap_size_mb": {
+        "mean": 709.3333333333334,
+        "std": 106.15711626326957,
+        "n_runs": 3,
+        "pct_change_vs_base": -5.51
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3729.2158023333336,
+        "std": 624.837826273348,
+        "n_runs": 3,
+        "pct_change_vs_base": -4.11
+      },
+      "heap_used_mb": {
+        "mean": 842.1071523030599,
+        "std": 14.777778327569013,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.18
+      },
+      "heap_size_mb": {
+        "mean": 898.6666666666666,
+        "std": 14.047538337136986,
+        "n_runs": 3,
+        "pct_change_vs_base": 19.72
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3589.031230666667,
+        "std": 594.9838533368555,
+        "n_runs": 3,
+        "pct_change_vs_base": -7.71
+      },
+      "heap_used_mb": {
+        "mean": 704.1961873372396,
+        "std": 129.88950800174862,
+        "n_runs": 3,
+        "pct_change_vs_base": -0.34
+      },
+      "heap_size_mb": {
+        "mean": 754.6666666666666,
+        "std": 135.43017881304496,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.53
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2659.049643,
+        "std": 88.60896851196419,
+        "n_runs": 3,
+        "pct_change_vs_base": -31.63
+      },
+      "heap_used_mb": {
+        "mean": 931.7994283040365,
+        "std": 113.89321048965962,
+        "n_runs": 3,
+        "pct_change_vs_base": 31.88
+      },
+      "heap_size_mb": {
+        "mean": 993.3333333333334,
+        "std": 120.95178102588375,
+        "n_runs": 3,
+        "pct_change_vs_base": 32.33
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2992.7456933333337,
+        "std": 235.18947623294838,
+        "n_runs": 3,
+        "pct_change_vs_base": -23.05
+      },
+      "heap_used_mb": {
+        "mean": 894.4969965616862,
+        "std": 114.3792936762668,
+        "n_runs": 3,
+        "pct_change_vs_base": 26.6
+      },
+      "heap_size_mb": {
+        "mean": 952.0,
+        "std": 122.5724275683565,
+        "n_runs": 3,
+        "pct_change_vs_base": 26.82
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2964.5814133333333,
+        "std": 66.8709728647716,
+        "n_runs": 3,
+        "pct_change_vs_base": -23.77
+      },
+      "heap_used_mb": {
+        "mean": 1001.1476593017578,
+        "std": 180.32243702044101,
+        "n_runs": 3,
+        "pct_change_vs_base": 41.69
+      },
+      "heap_size_mb": {
+        "mean": 1064.0,
+        "std": 190.03157632351525,
+        "n_runs": 3,
+        "pct_change_vs_base": 41.74
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 3041.9248356666667,
+        "std": 20.319461166230017,
+        "n_runs": 3,
+        "pct_change_vs_base": -21.78
+      },
+      "heap_used_mb": {
+        "mean": 853.1968790690104,
+        "std": 79.76844514071244,
+        "n_runs": 3,
+        "pct_change_vs_base": 20.75
+      },
+      "heap_size_mb": {
+        "mean": 908.0,
+        "std": 84.0,
+        "n_runs": 3,
+        "pct_change_vs_base": 20.96
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2707.374432,
+        "std": 242.55502626815075,
+        "n_runs": 3,
+        "pct_change_vs_base": -30.38
+      },
+      "heap_used_mb": {
+        "mean": 964.0108973185221,
+        "std": 62.58115703029738,
+        "n_runs": 3,
+        "pct_change_vs_base": 36.44
+      },
+      "heap_size_mb": {
+        "mean": 1025.3333333333333,
+        "std": 67.09197666884866,
+        "n_runs": 3,
+        "pct_change_vs_base": 36.59
+      }
+    }
+  },
+  "climate500JACC": {
+    "base": {
+      "label": "Base",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3408.898235,
+        "std": 276.50093667423556,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_used_mb": {
+        "mean": 685.2984771728516,
+        "std": 62.55332274518051,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      },
+      "heap_size_mb": {
+        "mean": 727.3333333333334,
+        "std": 66.40281118547115,
+        "n_runs": 3,
+        "pct_change_vs_base": 0.0
+      }
+    },
+    "c1": {
+      "label": "C1",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3277.5547803333334,
+        "std": 97.04407194478695,
+        "n_runs": 3,
+        "pct_change_vs_base": -3.85
+      },
+      "heap_used_mb": {
+        "mean": 778.1757202148438,
+        "std": 16.31327843676357,
+        "n_runs": 3,
+        "pct_change_vs_base": 13.55
+      },
+      "heap_size_mb": {
+        "mean": 832.0,
+        "std": 18.33030277982336,
+        "n_runs": 3,
+        "pct_change_vs_base": 14.39
+      }
+    },
+    "c2": {
+      "label": "C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3508.9665903333334,
+        "std": 187.73411610657465,
+        "n_runs": 3,
+        "pct_change_vs_base": 2.94
+      },
+      "heap_used_mb": {
+        "mean": 1112.9498977661133,
+        "std": 451.42512040339653,
+        "n_runs": 3,
+        "pct_change_vs_base": 62.4
+      },
+      "heap_size_mb": {
+        "mean": 1308.0,
+        "std": 685.9970845419097,
+        "n_runs": 3,
+        "pct_change_vs_base": 79.84
+      }
+    },
+    "c1c2": {
+      "label": "C1+C2",
+      "engine": "SQLite",
+      "runtime_s": {
+        "mean": 3312.3213739999997,
+        "std": 332.5235753182044,
+        "n_runs": 3,
+        "pct_change_vs_base": -2.83
+      },
+      "heap_used_mb": {
+        "mean": 741.7154286702474,
+        "std": 30.000626758032634,
+        "n_runs": 3,
+        "pct_change_vs_base": 8.23
+      },
+      "heap_size_mb": {
+        "mean": 792.0,
+        "std": 31.74901573277509,
+        "n_runs": 3,
+        "pct_change_vs_base": 8.89
+      }
+    },
+    "c1c2d1b": {
+      "label": "C1+C2+D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2649.5446933333333,
+        "std": 86.13300123665279,
+        "n_runs": 3,
+        "pct_change_vs_base": -22.28
+      },
+      "heap_used_mb": {
+        "mean": 959.7904281616211,
+        "std": 53.54330809436382,
+        "n_runs": 3,
+        "pct_change_vs_base": 40.05
+      },
+      "heap_size_mb": {
+        "mean": 1021.3333333333334,
+        "std": 58.286647985051715,
+        "n_runs": 3,
+        "pct_change_vs_base": 40.42
+      }
+    },
+    "d1b": {
+      "label": "D1b",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2939.822618,
+        "std": 271.8698911071492,
+        "n_runs": 3,
+        "pct_change_vs_base": -13.76
+      },
+      "heap_used_mb": {
+        "mean": 954.1423823038737,
+        "std": 95.25181490385457,
+        "n_runs": 3,
+        "pct_change_vs_base": 39.23
+      },
+      "heap_size_mb": {
+        "mean": 1017.3333333333334,
+        "std": 100.42576030746957,
+        "n_runs": 3,
+        "pct_change_vs_base": 39.87
+      }
+    },
+    "d1bd2": {
+      "label": "D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2940.3612273333333,
+        "std": 12.356418204860379,
+        "n_runs": 3,
+        "pct_change_vs_base": -13.74
+      },
+      "heap_used_mb": {
+        "mean": 868.4056752522787,
+        "std": 61.19637467399025,
+        "n_runs": 3,
+        "pct_change_vs_base": 26.72
+      },
+      "heap_size_mb": {
+        "mean": 926.6666666666666,
+        "std": 64.16645021608515,
+        "n_runs": 3,
+        "pct_change_vs_base": 27.41
+      }
+    },
+    "c1d1bd2": {
+      "label": "C1+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2917.108185333333,
+        "std": 24.64257708507317,
+        "n_runs": 3,
+        "pct_change_vs_base": -14.43
+      },
+      "heap_used_mb": {
+        "mean": 934.3953959147135,
+        "std": 91.7851197443818,
+        "n_runs": 3,
+        "pct_change_vs_base": 36.35
+      },
+      "heap_size_mb": {
+        "mean": 994.6666666666666,
+        "std": 98.33276835995889,
+        "n_runs": 3,
+        "pct_change_vs_base": 36.76
+      }
+    },
+    "c1c2d1bd2": {
+      "label": "C1+C2+D1b+D2",
+      "engine": "PostgreSQL",
+      "runtime_s": {
+        "mean": 2673.345863666667,
+        "std": 267.65037045409963,
+        "n_runs": 3,
+        "pct_change_vs_base": -21.58
+      },
+      "heap_used_mb": {
+        "mean": 1061.3773244222004,
+        "std": 50.3806311418105,
+        "n_runs": 3,
+        "pct_change_vs_base": 54.88
+      },
+      "heap_size_mb": {
+        "mean": 1185.3333333333333,
+        "std": 152.8572318646826,
+        "n_runs": 3,
+        "pct_change_vs_base": 62.97
+      }
+    }
+  }
+}

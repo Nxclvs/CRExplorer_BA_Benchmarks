@@ -1,0 +1,11 @@
+def scriptDir = new File(getClass().protectionDomain.codeSource.location.path).parent
+
+println(scriptDir)
+
+wosfile = "data_climate_200t.txt"
+
+importFile (file: scriptDir + "/" + wosfile, type: "WOS")
+
+info()
+
+cluster (threshold: 0.76d, Algorithm: 'COS', MODE: 'CHAR', N: 2)
