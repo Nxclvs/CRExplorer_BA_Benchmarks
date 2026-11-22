@@ -1,6 +1,6 @@
 # CRExplorer_BA_Benchmarks
 
-Begleit-Repository zur Bachelorarbeit *"KI-gestütztes Performance-Refactoring in der Praxis: Eine Untersuchung zu Claude Code am Beispiel des Java-Tools CRExplorer"* (Niclas Wienzek, HTWK Leipzig). Enthält die Rohdaten, Auswertungsskripte und Diagramme, mit denen die in Kapitel 4 und 5 der Arbeit berichteten Ergebnisse erzeugt wurden.
+Begleit-Repository. Enthält die Rohdaten, Auswertungsskripte und Diagramme, mit denen die in Kapitel 4 und 5 der Arbeit berichteten Ergebnisse erzeugt wurden.
 
 Die untersuchte Codebase selbst (CRExplorer-Fork mit den vier Optimierungen C1, C2, D1b, D2 als isolierte Git-Branches) liegt in einem separaten Repository: [CRExplorer_BA](https://github.com/Nxclvs/CRExplorer_BA).
 
